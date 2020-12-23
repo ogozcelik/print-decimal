@@ -1,2 +1,2 @@
 # PrintDecimal_Assembly
-It prints the number stored in register to decimal format
+It prints the binary number stored in register into decimal format with no leading zeros.
